@@ -17,6 +17,9 @@ BlinkIt is a delivery management system built with Fastify and MongoDB. It provi
 - Product catalog management
 - Real-time order status updates
 - Administrative dashboard
+- Database Diagram
+
+![Database Schema](image.png)
 
 ## Setup
 
