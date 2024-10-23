@@ -1,4 +1,4 @@
-# BlinkIt API Documentation
+# WinkIt API Documentation
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -11,7 +11,7 @@
 
 ## Overview
 
-BlinkIt is a delivery management system built with Fastify and MongoDB. It provides functionality for:
+WinkIt is a delivery management system built with Fastify and MongoDB. It provides functionality for:
 - Customer and delivery partner management
 - Order processing and tracking
 - Product catalog management
